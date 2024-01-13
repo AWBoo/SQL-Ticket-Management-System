@@ -1,0 +1,13 @@
+C:\Users\Asher\source\repos\PRG4\PRG4\bin\Debug\BusTicketDB.mdf
+C:\Users\Asher\source\repos\PRG4\PRG4\bin\Debug\BusTicketDB_log.ldf
+C:\Users\Asher\source\repos\PRG4\PRG4\bin\Debug\PRG4.exe.config
+C:\Users\Asher\source\repos\PRG4\PRG4\bin\Debug\PRG4.exe
+C:\Users\Asher\source\repos\PRG4\PRG4\bin\Debug\PRG4.pdb
+C:\Users\Asher\source\repos\PRG4\PRG4\obj\Debug\PRG4.csproj.AssemblyReference.cache
+C:\Users\Asher\source\repos\PRG4\PRG4\obj\Debug\PRG4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asher\source\repos\PRG4\PRG4\obj\Debug\PRG4.Form1.resources
+C:\Users\Asher\source\repos\PRG4\PRG4\obj\Debug\PRG4.Properties.Resources.resources
+C:\Users\Asher\source\repos\PRG4\PRG4\obj\Debug\PRG4.csproj.GenerateResource.cache
+C:\Users\Asher\source\repos\PRG4\PRG4\obj\Debug\PRG4.csproj.CoreCompileInputs.cache
+C:\Users\Asher\source\repos\PRG4\PRG4\obj\Debug\PRG4.exe
+C:\Users\Asher\source\repos\PRG4\PRG4\obj\Debug\PRG4.pdb
